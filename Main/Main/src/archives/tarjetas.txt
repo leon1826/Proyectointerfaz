@@ -1,0 +1,2 @@
+System,Recursos/IMG/System.png
+Preferences,Recursos/IMG/Preferences.png
